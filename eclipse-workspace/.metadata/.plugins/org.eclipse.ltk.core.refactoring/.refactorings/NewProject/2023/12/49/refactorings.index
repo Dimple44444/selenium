@@ -1,0 +1,6 @@
+1701607484790	Encapsulate field 'trans_id'
+1701607496532	Encapsulate field 'trans_desc'
+1701608532773	Rename type 'abstractAssignment'
+1701608588875	Rename package 'StringDemo'
+1701861668644	Rename type 'NullPointer'
+1701861743378	Rename type 'NumberFormat'

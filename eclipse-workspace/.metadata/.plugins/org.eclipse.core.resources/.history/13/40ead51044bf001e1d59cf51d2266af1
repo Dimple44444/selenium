@@ -1,0 +1,19 @@
+package config;
+
+public interface ConfigParty {
+	
+	void navigateToUrl();
+
+    void closeBttn();
+
+    void clickOnLink();
+
+    void clickOnBtn();
+
+    void printButtonText();
+
+    void closeBrowser();
+    
+}
+
+

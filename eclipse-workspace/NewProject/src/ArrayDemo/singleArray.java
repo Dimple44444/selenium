@@ -1,0 +1,14 @@
+package ArrayDemo;
+
+public class singleArray {
+
+	public static void main(String[] args) {
+		int[] arr = {1,2,3,4,5};
+		
+		for(int a :arr);{
+			System.out.println("array is:"+ arr);
+		}
+		
+	}
+
+}
